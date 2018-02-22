@@ -1,4 +1,8 @@
 baseURL = "http://albizures.com/"
 languageCode = "en-us"
 title = "Jose Albizures"
-pygmentsUseClasses=true
+pygmentsStyle = "monokai"
+pygmentsCodefences = true
+pygmentsOptions = "linenos=true,lineanchors=true,full=true"
+pygmentsUseClasses = true
+theme = "black-and-light"
