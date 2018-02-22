@@ -1,0 +1,4 @@
+baseURL = "http://albizures.com/"
+languageCode = "en-us"
+title = "Jose Albizures"
+pygmentsUseClasses=true
