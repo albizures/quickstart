@@ -1,3 +1,7 @@
 [submodule "themes/black-and-light"]
 	path = themes/black-and-light
 	url = https://github.com/albizures/hugo-black-and-light-theme.git
+[submodule "public"]
+	path = public
+	url = https://github.com/albizures/albizures.com.git
+	branch = gh-pages
