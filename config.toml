@@ -1,8 +1,24 @@
 baseURL = "http://albizures.com/"
 languageCode = "en-us"
 title = "Jose Albizures"
+author = "Jose Albizures"
 pygmentsStyle = "monokai"
 pygmentsCodefences = true
 pygmentsOptions = "linenos=true,lineanchors=true,full=true"
 pygmentsUseClasses = true
 theme = "black-and-light"
+
+googleAnalytics = "UA-113899183-1"
+
+[params]
+  sitename = "Jose Albizures"
+
+[[menu.main]]
+    name = "Github"
+    url  = "http://github.com/albizures"
+[[menu.main]]
+    name = "LinkedIn"
+    url  = "https://www.linkedin.com/in/albizures"
+[[menu.main]]
+    name = "Twitter"
+    url  = "http://twitter.com/_albizures"
