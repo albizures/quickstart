@@ -10,6 +10,10 @@ theme = "black-and-light"
 
 googleAnalytics = "UA-113899183-1"
 
+[[extensionsmask]]
+    footnotes = true
+    autoHeaderIds = true
+
 [params]
   sitename = "Jose Albizures"
 
