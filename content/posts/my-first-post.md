@@ -1,10 +1,10 @@
 ---
-title: "My First Post"
+title: "Guía general de Javascript"
 date: 2018-02-21T21:11:05-06:00
 draft: true
+lang: "es"
 ---
 
-# Guía general de Javascript
 
 {{< note >}}
   Esta guía sigue en desarrollo, planeo sacar un artículo por semana como mínimo

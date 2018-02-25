@@ -1,5 +1,5 @@
 baseURL = "http://albizures.com/"
-languageCode = "en-us"
+languageCode = "en"
 title = "Jose Albizures"
 author = "Jose Albizures"
 pygmentsStyle = "monokai"
